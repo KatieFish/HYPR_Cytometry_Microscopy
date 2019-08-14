@@ -1,0 +1,2 @@
+run("Analyze Particles...", "size=20-200 show=Outlines display exclude clear include summarize");
+
